@@ -11,9 +11,7 @@ Bienvenido a mi perfil de GitHub, donde comparto proyectos de desarrollo web, ci
 ---
 
 ### 🚀 Sobre mí
-<div align="center">
-    <img src="https://github.com/mariogonzcardona/PortafolioMGonzalez.io/blob/master/images/MarioGHWeb.png" alt="Mario Glz" width=100% height=auto>
-</div>
+Desarrollador backend con 10 años de experiencia, incluyendo 4 con Django, con habilidades en Python, Kotlin y bases de datos como MySQL/PostgreSQL. Competente en herramientas operativas y control de versiones con Git, además del despliegue de contenedores con Docker y la gestión de infraestructura en AWS. Enfocado en ofrecer soluciones tecnológicas robustas y escalables.
 
 ---
 
