@@ -5,12 +5,17 @@
 Bienvenido a mi perfil de GitHub, donde comparto proyectos de desarrollo web, ciencia de datos y automatización. Soy apasionado por la tecnología y el desarrollo de software, con un enfoque en construir soluciones innovadoras.
 
 - 🌍 Residencia en México
-- 📄 [Portafolio](http://mariogonzcardona.github.io/PortafolioMGonzalez.io/)
-- 📧 [Correo](mailto:alejandrogonzalez@uadec.edu.mx)
+- 📄 [Web profesional](http://mariogonzcardona.github.io/PortafolioMGonzalez.io/)
+- 📧 [Email](mailto:alejandrogonzalez@uadec.edu.mx)
+
+---
 
 ### 🚀 Sobre mí
+<div align="center">
+    <img src="https://github.com/mariogonzcardona/PortafolioMGonzalez.io/blob/master/images/MarioGHWeb.png" alt="Mario Glz" width=100% height=auto>
+</div>
 
-Python backend developer con 10 años de experiencia, incluyendo 4 con Django, con sólidas habilidades en Python, Kotlin y bases de datos como MySQL/PostgreSQL. Competente en herramientas operativas y control de versiones con Git, además de despliegue de contenedores usando Docker y gestión de infraestructura en AWS. Enfocado en ofrecer soluciones tecnológicas robustas y escalables.
+---
 
 ### 🛠️ Habilidades
 
@@ -52,6 +57,7 @@ Python backend developer con 10 años de experiencia, incluyendo 4 con Django, c
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
 </p>
 
+---
 
 ### 📈 Estadísticas
 
@@ -60,23 +66,27 @@ Python backend developer con 10 años de experiencia, incluyendo 4 con Django, c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariogonzcardona&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
+---
+
 ### 🌐 Redes Sociales
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mariogonzcardona" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.dev.to/mariogonzcardona" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://twitter.com/MarioGlzCardona" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@mgcode270" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
+---
 
 ### 📌 Proyectos Destacados
 
 <a href="https://github.com/mariogonzcardona/PortafolioMGonzalez.io" align="left">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=PortafolioMGonzalez.io&theme=radical&show_owner=true" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=PortafolioMGonzalez.io&theme=radical&show_owner=true" />
 </a>
 <a href="https://github.com/mariogonzcardona/bedu_proc_data_python_2024" align="right">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=bedu_proc_data_python_2024&theme=radical&show_owner=true" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=bedu_proc_data_python_2024&theme=radical&show_owner=true" />
 </a>
 <a href="https://github.com/mariogonzcardona/bedu_intro_bd_mysql" align="right">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=bedu_intro_bd_mysql&theme=radical&show_owner=true" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=bedu_intro_bd_mysql&theme=radical&show_owner=true" />
 </a>
-
