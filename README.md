@@ -71,5 +71,4 @@ Python backend developer con 10 años de experiencia, incluyendo 4 con Django, c
 ### 📌 Proyectos Destacados
 
 <a href="https://github.com/mariogonzcardona/PortafolioMGonzalez.io" align="left"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=PortafolioMGonzalez.io&theme=radical" /></a>
-<a href="https://github.com/mariogonzcardona/bedu_proc_data_python_2024" align="right"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=bedu_proc_data_python_2024&theme=radical" /></a>
 <a href="https://github.com/mariogonzcardona/bedu_intro_bd_mysql" align="right"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mariogonzcardona&repo=bedu_intro_bd_mysql&theme=radical" /></a>
